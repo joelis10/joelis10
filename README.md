@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joelis10
+- 🌱 I’m currently learning web development in HTML, CSS and JS plus a bit of Python on the side.
+- 📫 How to reach me: joelnod71@gmail.com or flag an issue on the corresponding repo.
