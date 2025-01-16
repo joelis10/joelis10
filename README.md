@@ -1,1 +1,1 @@
-retail by day, web and software dev by night (although not every night)
+software dev
